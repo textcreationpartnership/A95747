@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter sent from Pope Urban the 8. unto the King of France, Jan. 28. 1641. Brought unto the said king, by the Bishop of Salerno the Popes nuntio. Wherein he informes the king, that he understands by his nuntio lately returned out of England. What and how great persecutions and pressures the catholiques suffer, since the sitting  of the Parliament there. Whence he taketh occasion to exhort and incite the king to the same measure towards his Hugonets in France. Also strongly perswading him to an inclination unto peace with the crowne of Spaine. And for the assisting of the Catholiques in Ireland. Translated out of the Latine copie by J.S.</title>
+            <author>Urban VIII, Pope, 1568-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95747</idno>
+            <idno type="STC">Wing U129</idno>
+            <idno type="STC">Thomason E138_1</idno>
+            <idno type="STC">ESTC R17612</idno>
+            <idno type="EEBO-CITATION">99860234</idno>
+            <idno type="PROQUEST">99860234</idno>
+            <idno type="VID">156513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156513)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E138[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter sent from Pope Urban the 8. unto the King of France, Jan. 28. 1641. Brought unto the said king, by the Bishop of Salerno the Popes nuntio. Wherein he informes the king, that he understands by his nuntio lately returned out of England. What and how great persecutions and pressures the catholiques suffer, since the sitting  of the Parliament there. Whence he taketh occasion to exhort and incite the king to the same measure towards his Hugonets in France. Also strongly perswading him to an inclination unto peace with the crowne of Spaine. And for the assisting of the Catholiques in Ireland. Translated out of the Latine copie by J.S.</title>
+                  <author>Urban VIII, Pope, 1568-1644.</author>
+                  <author>J. S.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641. [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  17th century.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156513:1"/>
+            <pb facs="tcp:156513:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER Sent from Pope <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> the 8. unto the King of <hi>France, Jan.</hi> 28. 1641.</p>
+            <p>Brought unto the ſaid King, by the Biſhop of <hi>Salerno</hi> the Popes <hi>Nuntio.</hi>
+            </p>
+            <p>Wherein he informes the King, that he under<g ref="char:EOLhyphen"/>ſtands by his <hi>Nuntio</hi> lately returned out of <hi>England.</hi> what and how great perſecutions and preſ<g ref="char:EOLhyphen"/>ſures the Catholiques ſuffer, ſince, the ſit<g ref="char:EOLhyphen"/>ting of the Parliament there.</p>
+            <p>Whence he taketh occaſion to exhort and incite the King to the ſame meaſure towards his <hi>Hugonets</hi> in <hi>France.</hi>
+            </p>
+            <p>Alſo ſtrongly perſwading him to an Inclination unto peace with the Crowne of <hi>Spaine.</hi> And for the aſſiſting of the Catholiques in <hi>Ireland.</hi>
+            </p>
+            <p>Tranſlated out of the Latine Copie, by <hi>J. S.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156513:2"/>
+            <pb n="1" facs="tcp:156513:2"/>
+            <head>
+               <hi>Urban</hi> the eight, by the Divine Providence Pope of <hi>Rome,</hi> Biſhop of Biſhops, and ſervant of the ſervants of God. To the moſt <hi>Chriſtian</hi> King LEVVIS the 13.th, By the grace of God King of <hi>France,</hi> and <hi>Navarre,</hi> our thrice beloved Sonne in Jeſus Chriſt, and the Faith <hi>Catholick;</hi> Greeting and <hi>Benediction Apoſtolicke.</hi>
+            </head>
+            <p>WHereas we are given to underſtand <hi>Ian.</hi> 13. by the relation of Count <hi>Ruſſete Nuntio</hi> of our Sea Appoſtolique, unto MARIA HEN<g ref="char:EOLhyphen"/>NERETTA, deareſt Siſter unto your Majeſty and Queene unto <hi>Charles,</hi> King of great Brittaine, what, and how great miſeries our Catholiques, living in <hi>England</hi> have endured ſince the Scottiſh Jnvaſion, and convening of the Par<g ref="char:EOLhyphen"/>liament there holden, how cruelly and barbarouſly perſons in Order and ſacred Eccleſiaſticks, how opprobiouſly and unworthily the <hi>Layicks</hi> have beene handled, theyr under<g ref="char:EOLhyphen"/>going Racks, tortures, Gallowes, Gibbers, quartering of their members (yea notwithſtanding that ſome of thom were eight<g ref="char:EOLhyphen"/>tie yeares old, ruffering Jmpriſonment, reproaches, loſſe of Honours, confiſcation of Goods, bereaving of their Children, ſequeſtration of Reuenues, alienation of Lands, counted meere dung and the off-ſcowring of their Country, and that for no other reaſon but that they have teſtified to the World in the two late Northerne expeditions, Fidelitie not to be paralel'd. Obedience not to be blamed towards their King, to the great impairing (at leaſt) if not to the utter decay of their eſtates.</p>
+            <pb n="2" facs="tcp:156513:3"/>
+            <p>And ſeeing that by things there already enacted as farther to be enacted, it may evidently appeare how not onely ominous, that contagious quag of Heritieks is unto the undoubted Catholique Roman Fayth, but alſo to the eſtabliſhed State and ſetled Govern<g ref="char:EOLhyphen"/>ment, of Haereditary Kings and Monarchs, not only contrary but peſtifferous, where once they have got the upper hand and gained the maſterie, we would that your Chriſtian Majeſty ſhould be moſt ſeriouſly ad<g ref="char:EOLhyphen"/>moniſhed, that yee may with mature care and ſeaſon<g ref="char:EOLhyphen"/>able prevention foreſee thoſe diſtempers which are a<g ref="char:EOLhyphen"/>foote with your neighbouring Prince, that King <hi>Charles</hi> and great <hi>Brittan's</hi> diſaſters, may prove unto your Majeſties inſtructions, and when it is likely that the nefarious deeds of the Heriticks which now carrie all before, them in <hi>England,</hi> are knowne unto your Majeſty then to us, as who are nigher, and that yee have the deformed notoriouſneſſe of them as it were drawne in a Table before you; hereupon wee councell your Majeſty to conſider what ſo nearely concernes you, that millions of Heritickes lurke and harbour in your Dominions, we wiſh we knew not, who have the ſame mind, the ſame opinion of you and your beliefe, and had they but ſtrength, what they approve in the <hi>Engliſh</hi> they would exploit themſelves, let your Majeſty take heed yee foſter not a Viper in your boſome, whoſe feebleneſſe is yet the cauſe it doth no miſchiefe, not its diſpoſition, when they ſhall find themſelves able they do not domineere but rage, neither contemne they the Crowne but trample it, wee adjure your Majeſty by all that is ſacred, by the ſweet cognomination of the moſt Chriſtian King
+<pb n="3" facs="tcp:156513:3"/>firſt granted to the Kings of <hi>France,</hi> for their famous defence of Catholique, and chaſtiſing Heriticks (and derived unto your Majeſtie, as in the ſame ſence, ſo to be no other wayes injoyed) by all your rather to be admired, then credulous Heroyick Acts, and glorious enterprizes, with the which he that led Captivity Captive hath crowned you with Lillies, by the o<g ref="char:EOLhyphen"/>bedience you owe unto St <hi>Peter,</hi> filiall recognizance to us, diligence in advancing the Catholique fayth, which your Majeſty ſwore at your ſacred Coronation and annointing, by all the foreſaid, wee beſeech your Majeſtie, that not only yee would endeavour the ſup<g ref="char:EOLhyphen"/>preſſion and abatement of the Heritiques that neſtle in your Realme, but their totall ruine and ex<g ref="char:EOLhyphen"/>tirpation, which thing wee more earneſtly requeſt of your Majeſtie, by how much wee deſire the flouriſh<g ref="char:EOLhyphen"/>ing of your Monarchie, your Scepter and Magnifi<g ref="char:EOLhyphen"/>cence, the fayth Apoſtoliques prehemenence; when did more luſtre atend your Crowne, then after the ſurprizall of the <hi>Rotchell</hi> Heritiques Denne, when your Authoritie greater or more enlarged, then upon the diſabling thoſe Rebels of <hi>Montauban,</hi> what ſtops the free current of Catholique faith, whol<g ref="char:EOLhyphen"/>ſome and freſh ſtreames through <hi>France,</hi> but this cho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>king fenne of Hereſie: Let it be taken away there<g ref="char:EOLhyphen"/>fore not onely bow and twig: but both ſtock with ſtrings be rooted up, leaſt by their Commiſſion the ſincere flocke of Catholicks may be drawne into con<g ref="char:EOLhyphen"/>ſent of the putred and ulcered Cattell, and ſeeing that it may ſhame us, that thoſe malevolent ſhould labour more the devaſtation and laying waſt of Chriſts bleſ<g ref="char:EOLhyphen"/>ſed body, then we its propagation, that your Majeſtie
+<pb n="4" facs="tcp:156513:4"/>may the ſooner not ſuppreſſe or diminiſh, but wholly blot out and extinguiſh that Contagion, let your Ma<g ref="char:EOLhyphen"/>jeſty under moſt heavy paines ſtrictly forbid not one<g ref="char:EOLhyphen"/>ly the publike convent in Churches of that heriticall Conſpiracy, but all private exerciſe and uſe of this ſe<g ref="char:EOLhyphen"/>ditious Leaven, even within private walls, let fit Offi<g ref="char:EOLhyphen"/>cers be ſet over that charge, and let them taſte of their owne ſawce, as they uſe your Catholiques, ſo you muſt handle them, your Majeſty being a Member of that body they thus perſecute, let them perceive that in the ancient Catholique Roman faith, diſtance of place, diverſity of Nations leſſeneth not our ſimpathy in the cauſe, nor affection to the afflicted, put the Mini<g ref="char:EOLhyphen"/>ſters of your Hugonets to death when your Catholique Prieſts are hanged on Gibbers, what reaſon is there that their beardleſſe impudent Bablers ſhould range ſo vnbridled throughout <hi>France,</hi> unpuniſhed? when your poore Religious more ancient then able (a thing odi<g ref="char:EOLhyphen"/>ous to <hi>Barbarians</hi>) have vndergone the raking out of their bowels, let others vndergoe Fines of Crownes, confiſcation of goods, loſſe of Office, baniſhment out of the Realme, depriving of their children, loſſe of Vote in Courts bands, impriſonment, that it may ap<g ref="char:EOLhyphen"/>peare to all the world that your Majeſty hath as much power over your Hugonets, what others have over their Catholiques, and that your Majeſties e<g ref="char:EOLhyphen"/>ſteeme is nevertheleſſe of them for other, notorious debaſing of them, neither let your Majeſty deſiſt be<g ref="char:EOLhyphen"/>fore you have either vanquiſhed your owne Hugonets, or purchaſed ſome eaſe for the <hi>Engliſh</hi> Catholiques; Being certified by the Agent of the <hi>Iriſh,</hi> that they burdened with heavy preſſures, threatned by the
+<pb n="5" facs="tcp:156513:4"/>now ſitting Parliament with heavier, as who are ut<g ref="char:EOLhyphen"/>terly debarred the free uſe of the Roman Catholique Religion, put out of their houſes, Lands, Honours, and when they would have ſubmitted, denyed Pardon; we entreat your Majeſty that you would by your Am<g ref="char:EOLhyphen"/>baſſadour ſollicite the cauſe of the diſtreſſed Nation, with the King of great <hi>Brittaine,</hi> and that you would put that King in mind of the <hi>Rouchellers,</hi> whoſe no<g ref="char:EOLhyphen"/>torious rayſing of Armes, and Rebellion, yea, pardo<g ref="char:EOLhyphen"/>ned at the interceſſion of that King, granting them alſo all their former Priviledges and Liberties as your Majeſty writ unto us by your Ambaſſador <hi>Mounſieur du Freſne. Anno Dom.</hi> 1628.</p>
+            <p>But if your Majeſty ſhall perceive, that you can prevaile nothing by that Mediation: We exhort your Majeſty, as is our duty to vndertake the defence and Protection of that Nation in all Ages, ſo conſtantly obedient vnto the Roman Catholique Religion, which defence will well become the Arms of the moſt Chri<g ref="char:EOLhyphen"/>ſtian King; We farther deſire ſo your Chriſtian Ma<g ref="char:EOLhyphen"/>jeſty to ſend Grave and temperate Ambaſſadours vn<g ref="char:EOLhyphen"/>to us to <hi>Bononia,</hi> for the concluſion of that ſo much wiſhed for, and heartily longed after peace betwixt the Chriſtian, and the Catholique Crownes, let both your Majeſties thinke on peace, doe yee both deſire it, let each in ſomething depart from his right, give yee way on both parties, and the Spirit of peace ſhall accord you, and the happie agreement of theſe two Glorious Crownes, ſhall crowne my old Age, and rejoyce all Catholique Regions, When we ſhall ſee two great Princes having bin ſo long at ſuch Mortall diſſention, at length to the vnſpeakeable Joy of all, to
+<pb n="6" facs="tcp:156513:5"/>fall at vnitie, and two the very Eldeſt Sonnes of the Catholique faith profeſſing betwixt themſelves a Ca<g ref="char:EOLhyphen"/>tholique conſent to employ their Armes onely againſt <hi>Heretiques,</hi> and <hi>Ethnickes.</hi>
+            </p>
+            <p>Which we ceaſe not day and night to begge on our knees in the bleſſed Sacrifice of the Maſſe of God Al<g ref="char:EOLhyphen"/>mighty of our Bleſſed Mother of God, and of him that being God became man, of the Bleſſed Apoſtle of our faith St. <hi>Peter,</hi> and of all Saints.</p>
+            <p>
+               <hi>Given under the Seale of the Fiſherman.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Ian.</hi> 28. <hi>Anno Salutis,</hi> 1641.</date>
+               </dateline>
+               <signed>
+                  <hi>And of our Popedome the nineteenth</hi> Subſcribed, <hi>Rancone, S, R, E, P, S.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
